@@ -1,0 +1,49 @@
+C:\Users\AlexNames\Documents\Visual Studio 2017\Projects\Course\Course\bin\Debug\Course.exe.config
+C:\Users\AlexNames\Documents\Visual Studio 2017\Projects\Course\Course\bin\Debug\Course.exe
+C:\Users\AlexNames\Documents\Visual Studio 2017\Projects\Course\Course\bin\Debug\Course.pdb
+C:\Users\AlexNames\Documents\Visual Studio 2017\Projects\Course\Course\obj\Debug\Course.csprojResolveAssemblyReference.cache
+C:\Users\AlexNames\Documents\Visual Studio 2017\Projects\Course\Course\obj\Debug\Course.Form1.resources
+C:\Users\AlexNames\Documents\Visual Studio 2017\Projects\Course\Course\obj\Debug\Course.Properties.Resources.resources
+C:\Users\AlexNames\Documents\Visual Studio 2017\Projects\Course\Course\obj\Debug\Course.csproj.GenerateResource.Cache
+C:\Users\AlexNames\Documents\Visual Studio 2017\Projects\Course\Course\obj\Debug\Course.exe
+C:\Users\AlexNames\Documents\Visual Studio 2017\Projects\Course\Course\obj\Debug\Course.pdb
+C:\Users\AlexNames\documents\visual studio 2017\Projects\Course\Course\obj\Debug\Course.Form2.resources
+C:\Users\AlexNames\documents\visual studio 2017\Projects\Course\Course\obj\Debug\Course.Form3.resources
+C:\Users\AlexNames\documents\visual studio 2017\Projects\Course\Course\obj\Debug\Course.Form4.resources
+E:\мое\Саша\Новая папка (2)\Course\Course\bin\Debug\Course.exe.config
+E:\мое\Саша\Новая папка (2)\Course\Course\bin\Debug\Course.exe
+E:\мое\Саша\Новая папка (2)\Course\Course\bin\Debug\Course.pdb
+E:\мое\Саша\Новая папка (2)\Course\Course\obj\Debug\Course.csprojAssemblyReference.cache
+E:\мое\Саша\Новая папка (2)\Course\Course\obj\Debug\Course.Form1.resources
+E:\мое\Саша\Новая папка (2)\Course\Course\obj\Debug\Course.Form2.resources
+E:\мое\Саша\Новая папка (2)\Course\Course\obj\Debug\Course.Form3.resources
+E:\мое\Саша\Новая папка (2)\Course\Course\obj\Debug\Course.Form4.resources
+E:\мое\Саша\Новая папка (2)\Course\Course\obj\Debug\Course.Properties.Resources.resources
+E:\мое\Саша\Новая папка (2)\Course\Course\obj\Debug\Course.csproj.GenerateResource.cache
+E:\мое\Саша\Новая папка (2)\Course\Course\obj\Debug\Course.csproj.CoreCompileInputs.cache
+E:\мое\Саша\Новая папка (2)\Course\Course\obj\Debug\Course.exe
+E:\мое\Саша\Новая папка (2)\Course\Course\obj\Debug\Course.pdb
+E:\C#\Course\Course\bin\Debug\Course.exe.config
+E:\C#\Course\Course\bin\Debug\Course.exe
+E:\C#\Course\Course\bin\Debug\Course.pdb
+E:\C#\Course\Course\obj\Debug\Course.csprojAssemblyReference.cache
+E:\C#\Course\Course\obj\Debug\Course.Form1.resources
+E:\C#\Course\Course\obj\Debug\Course.Form2.resources
+E:\C#\Course\Course\obj\Debug\Course.Form3.resources
+E:\C#\Course\Course\obj\Debug\Course.Form4.resources
+E:\C#\Course\Course\obj\Debug\Course.Properties.Resources.resources
+E:\C#\Course\Course\obj\Debug\Course.csproj.GenerateResource.cache
+E:\C#\Course\Course\obj\Debug\Course.exe
+E:\C#\Course\Course\obj\Debug\Course.pdb
+E:\C#\Test_character\Course\bin\Debug\Course.exe.config
+E:\C#\Test_character\Course\bin\Debug\Course.exe
+E:\C#\Test_character\Course\bin\Debug\Course.pdb
+E:\C#\Test_character\Course\obj\Debug\Course.csprojAssemblyReference.cache
+E:\C#\Test_character\Course\obj\Debug\Course.Form1.resources
+E:\C#\Test_character\Course\obj\Debug\Course.Form2.resources
+E:\C#\Test_character\Course\obj\Debug\Course.Form3.resources
+E:\C#\Test_character\Course\obj\Debug\Course.Form4.resources
+E:\C#\Test_character\Course\obj\Debug\Course.Properties.Resources.resources
+E:\C#\Test_character\Course\obj\Debug\Course.csproj.GenerateResource.cache
+E:\C#\Test_character\Course\obj\Debug\Course.exe
+E:\C#\Test_character\Course\obj\Debug\Course.pdb
